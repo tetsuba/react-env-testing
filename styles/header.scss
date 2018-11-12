@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  background-color: azure;
+  text-align: center;
+
+  ul {
+    list-style-type: none;
+    li {
+      display: inline-block;
+      margin: 0 20px;
+    }
+  }
+}

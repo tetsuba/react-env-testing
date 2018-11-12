@@ -11,7 +11,7 @@ const App = () => {
     const someVariable = true;
 
     return (
-        <div>
+        <div className='container'>
             <Header />
             <Switch>
                 {/* these are good */}
